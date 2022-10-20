@@ -1,0 +1,25 @@
+# Problema 1(Pilas):
+La implementación del TAD Pila con arrays establece un tamaño máximo de la pila
+que se controla con el método pilaLlena(). Modificar este método de tal forma
+que, cuando se llene la pila, se amplíe el tamaño del array a justamente el doble de la
+capacidad actual.
+
+#Problema 2(Colas):
+Una empresa de reparto de propaganda contrata a sus trabajadores por días. Cada repartidor
+puede trabajar varios días continuados o alternos. Los datos de los repartidores se almacenan
+en una lista enlazada. El programa a desarrollar contempla los siguientes puntos:
+ * Crea una cola que guarde el número de seguridad social de cada repartidor y la entidad anunciada
+ en la propaganda para un único día de trabajo.
+ * Actualizar la lista citada anteriormente (que ya existe con contenido) a partir de los datos de la cola.
+ * La información de la lista es la siguiente:
+    * Número de seguridad Social
+    * Nombre
+    * Total de dias trabajados
+ Además esta ordenada por el número de seguridad social.
+ Si el trabajador no esta incluido en la lista, debe añadirse a la misma de tal manera que siga ordenada.
+
+#Problema 3 (Listas Doblemente Enlazadas):
+Escribir un método para crear una lista doblemente enlazada de palabras introducidas
+por teclado. La referencia de acceso a la lista debe ser el nodo que está en la posición
+intermedia.
+
