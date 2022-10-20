@@ -1,1 +1,1 @@
-Códigos encargado de realizar las diversas operaciones de cada una de las estructuras lineales
+Códigos encargados de realizar las diversas operaciones de cada una de las estructuras lineales
