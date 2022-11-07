@@ -62,6 +62,7 @@ class Arboles_Binarios:
 
 
 def recorrer_arbol(nodo: Nodo, level=0):
+    """Imprime el arbol"""
     print(f"{'-' * level} {nodo.dato}")
 
     if nodo.hijoIzq is not None:
